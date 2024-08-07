@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace order_itens_project.Entities
 {
-    internal class Client
+    internal class Product
     {
         public string Name { get; set; }
-        public string Email { get; set; }
-        public DateTime BirthDate { get; set; }
+        public double Price { get; set; }
 
-        public Client()
+        public Product()
         {
         }
 
-        public Client(string name, string email, DateTime birthDate)
+        public Product(string name, double price)
         {
             Name = name;
-            Email = email;
-            BirthDate = birthDate;
+            Price = price;
         }
     }
 }
