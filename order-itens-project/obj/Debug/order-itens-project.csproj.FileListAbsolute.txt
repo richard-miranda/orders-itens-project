@@ -1,0 +1,7 @@
+C:\temp\order-itens-project\order-itens-project\bin\Debug\order-itens-project.exe.config
+C:\temp\order-itens-project\order-itens-project\bin\Debug\order-itens-project.exe
+C:\temp\order-itens-project\order-itens-project\bin\Debug\order-itens-project.pdb
+C:\temp\order-itens-project\order-itens-project\obj\Debug\order-itens-project.csproj.AssemblyReference.cache
+C:\temp\order-itens-project\order-itens-project\obj\Debug\order-itens-project.csproj.CoreCompileInputs.cache
+C:\temp\order-itens-project\order-itens-project\obj\Debug\order-itens-project.exe
+C:\temp\order-itens-project\order-itens-project\obj\Debug\order-itens-project.pdb
